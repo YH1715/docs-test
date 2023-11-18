@@ -10,7 +10,7 @@
 
 
 - figure by draw io
-- ![Alt text](test_figure1.drawio.svg)
+- ![Alt text](../test_figure1.drawio.svg)
 
 
 ```mermaid
