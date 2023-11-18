@@ -10,7 +10,7 @@
 
 
 - figure by draw io
-- ![Alt text](/設計書/images/test_figure1.drawio.svg)
+- ![Alt text](/設計書/images/test/test_figure1.drawio.svg)
 
 
 - figure by mermaid

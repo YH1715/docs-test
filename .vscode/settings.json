@@ -2,5 +2,6 @@
   "[markdown]": {
     "editor.tabSize": 4
   },
-  "markdown.extension.list.indentationSize": "inherit"
+  "markdown.extension.list.indentationSize": "inherit",
+  "markdown.updateLinksOnFileMove.enabled": "prompt"
 }
